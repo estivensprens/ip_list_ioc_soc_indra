@@ -1,4 +1,4 @@
 type=string
-"http://iocccu.minsaitco.com:2052/indraltam/soar/api/v1/PROXY/IP/UCC" "Bloqueo IOC 01Oct2025"
-"http://iocccu.minsaitco.com:2052/indraltam/soar/api/v1/PROXY/URL/UCC" "Bloqueo IOC 01Oct2025"
-"http://iocccu.minsaitco.com:2052/indraltam/soar/api/v1/PROXY/DOMAIN/UCC" "Bloqueo IOC 01Oct2025"
+"http://iocccu.minsaitco.com:2052/indraltam/soar/api/v1/PROXY/IP/UCC"
+"http://iocccu.minsaitco.com:2052/indraltam/soar/api/v1/PROXY/URL/UCC"
+"http://iocccu.minsaitco.com:2052/indraltam/soar/api/v1/PROXY/DOMAIN/UCC"
